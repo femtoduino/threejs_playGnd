@@ -9,6 +9,7 @@
 				mouseY = ( event.clientY - windowHalfY );
 			}
 
+
 			function rnd(n){ var r = Math.round(n*100)/100; return r; } // round to nearest 100th
 
 			function dec2hex(i) {	//convernt dat.gui's decimal to hex color values

@@ -79,3 +79,14 @@ and tween.js (by [sole](https://github.com/sole) )
 [Marshall McLuhan](http://en.wikipedia.org/wiki/Marshall_McLuhan),  
 and most importantly  
 [Ted Nelson](http://hyperland.com/) && [mr doob](http://mrdoob.com/)  
+
+
+### Additional work
+See localhost-example-apache-vhost.conf for sample apache2 config settings that let you proxy 
+between the threejs playground, and Russel Hay's imuduino-3js server. 
+
+This enables IMUduino sensor + ThreeJS action!
+
+Credits to Kassandra Perch (@nodebotanist) and Russell Hay (@RusselHay) for their work on the node.js integration!
+
+ - @FemtoIO
